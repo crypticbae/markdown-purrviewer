@@ -2,6 +2,8 @@
 
 *A soothing, eye-friendly markdown editor and A4 previewer with live rendering*
 
+![Markdown PurrViewer Screenshot](https://i.imgur.com/marb7ps.png)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-v14+-green.svg)](https://nodejs.org/)
 [![Catppuccin](https://img.shields.io/badge/theme-catppuccin-f5c2e7)](https://github.com/catppuccin/catppuccin)
